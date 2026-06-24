@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "title": "GreenPostel Global — İkinci Nesil Hibrit Posta",
+    "description": "GreenPostel Global, geleneksel posta sistemini dijital dünyayla birleştiren güvenli, ekonomik ve çevre dostu bir uluslararası hibrit posta çözümüdür.",
+    "keywords": "hibrit posta, dijital posta, AES şifreleme, uluslararası gönderim, çevre dostu posta, GreenPostel"
+  },
+  "nav": {
+    "whatis": "Nedir?",
+    "architecture": "Sistem Mimarisi",
+    "values": "Değerler",
+    "goals": "Hedefler",
+    "customers": "Çözümler",
+    "contact": "İletişim",
+    "cta": "Bize Ulaşın"
+  },
+  "hero": {
+    "badge": "Uluslararası Posta Gönderim Hizmetleri",
+    "titleTop": "Postanın",
+    "titleHighlight": "ikinci nesli",
+    "titleBottom": "dijitalle buluşuyor",
+    "subtitle": "GreenPostel Global, geleneksel posta sisteminin eksikliklerini gideren ve dijital dünyayla entegre eden yenilikçi bir hibrit posta çözümüdür. Tekli ve toplu veriyi ayrıştırır, uçtan uca şifreler ve hedefe en yakın baskı merkezine güvenle ulaştırır.",
+    "ctaPrimary": "Sistemi Keşfet",
+    "ctaSecondary": "İletişime Geç",
+    "scroll": "Keşfetmek için kaydır",
+    "stat1Label": "Dijital",
+    "stat2Label": "Güvenli",
+    "stat3Value": "AES 512",
+    "stat3Label": "Şifreleme"
+  },
+  "whatis": {
+    "eyebrow": "GreenPostel Nedir?",
+    "title": "Güvenli, ekonomik ve ekolojik bir posta deneyimi",
+    "p1": "Proje; tekli veri ve toplu veri işlemlerini ayrıştırarak dijital ortamda şifreler ve yurt içinde ve yurt dışında GreenPostel partnerlerinin baskı merkezlerine güvenli şekilde gönderilmesini sağlar.",
+    "p2": "Böylece hem müşteriler hem de uluslararası posta kuruluşları zamandan ve maliyetten tasarruf eder; çevre dostu yaklaşımıyla posta ulaşım süresini kısaltır. Proje güvenli, ekonomik ve ekolojik olarak geliştirilmiştir.",
+    "pill1Title": "Tamamen Dijital",
+    "pill1Desc": "Format dönüştürmeye gerek kalmadan uçtan uca dijital süreç.",
+    "pill2Title": "Üst Düzey Güvenlik",
+    "pill2Desc": "AES ile şifrelenen veri, baskıya kadar koruma altında kalır.",
+    "pill3Title": "Çevre Dostu",
+    "pill3Desc": "Karbon ayak izini ve taşıma süresini düşüren ekolojik model."
+  },
+  "mission": {
+    "eyebrow": "Misyon & Vizyon",
+    "missionTitle": "Misyonumuz",
+    "missionText": "Geleneksel posta süreçlerini modern teknolojilerle entegre ederek kullanıcılarımıza hızlı, güvenli, ekonomik ve çevre dostu çözümler sunmak. Kurumların iletişim maliyetlerini düşürürken iş süreçlerini kolaylaştırmayı amaçlıyoruz.",
+    "visionTitle": "Vizyonumuz",
+    "visionText": "Geleneksel posta hizmetleri ile dijital dünyanın gücünü birleştirerek kurumlar için yenilikçi, sürdürülebilir ve erişilebilir bir iletişim platformu oluşturmak."
+  },
+  "values": {
+    "eyebrow": "Şirket Değerlerimiz",
+    "title": "Bizi yönlendiren ilkeler",
+    "items": [
+      { "title": "Yenilikçilik", "desc": "İletişim yöntemlerinde sürekli gelişim ve teknoloji odaklı çözümler." },
+      { "title": "Sürdürülebilirlik", "desc": "Çevreye duyarlı uygulamalarla karbon ayak izini azaltmaya katkı." },
+      { "title": "Müşteri Odaklılık", "desc": "Kullanıcı ihtiyaçlarını merkeze alan esnek ve güvenilir hizmetler." },
+      { "title": "Erişilebilirlik", "desc": "Tüm kurumlar için kolay, hızlı ve uygun maliyetli çözümler." },
+      { "title": "Şeffaflık", "desc": "İş süreçlerinde güven, dürüstlük ve açık iletişim." },
+      { "title": "Verimlilik", "desc": "Hem zaman hem maliyet açısından etkili çözümler." }
+    ]
+  },
+  "architecture": {
+    "eyebrow": "Sistem Mimarisi",
+    "title": "Veriden teslimata, uçtan uca güvenli akış",
+    "intro": "Kullanıcı panelinden gönderilen veri AES ile şifrelenir, yapay zeka ile en yakın baskı merkezine yönlendirilir; basılır, zarflanır ve QR takip koduyla alıcıya ulaştırılır.",
+    "steps": [
+      { "title": "Veri Gönderimi", "desc": "Kullanıcı, mektup verilerini kendi panelinden GreenPostel sistemine yükler." },
+      { "title": "AES Şifreleme", "desc": "Veri AES 128 / 256 / 512 ile uçtan uca şifrelenir ve güvenle ayrıştırılır." },
+      { "title": "Akıllı Yönlendirme", "desc": "Yapay zeka, veriyi hedef adrese en yakın baskı merkezine yönlendirir." },
+      { "title": "Baskı & Zarflama", "desc": "AI entegre makineler veriyi okur, basar ve otomatik olarak zarflar." },
+      { "title": "Postaya Teslim", "desc": "Hazır gönderiler ulusal posta dağıtım kuruluşlarına teslim edilir." },
+      { "title": "QR Takip & Teslim", "desc": "Postacı, kişiye özel QR takip koduyla gönderiyi alıcıya ulaştırır." }
+    ],
+    "securityTitle": "Uçtan uca şifreleme",
+    "securityText": "Sistem, kullanıcının hesap oluşturup giriş yapmasıyla verileri AES ile şifreler. Bu koruma, baskı merkezindeki yapay zeka entegre makineler veriyi okuyup işleyene kadar kesintisiz devam eder.",
+    "optionsTitle": "İki kullanım yolu",
+    "option1Title": "Tarayıcı Üzerinden",
+    "option1Desc": "Hiçbir kurulum gerektirmeden web tarayıcısından işlem yapın.",
+    "option2Title": "İşletim Sistemi Üzerinden",
+    "option2Desc": "Kullandığınız işletim sistemiyle entegre çalışarak işlem yapın.",
+    "formatNote": "Hiçbir format değişikliği gerektirmez — GreenPostel tüm formatlara uyum sağlar.",
+    "diagram": {
+      "user": "Kullanıcı",
+      "center": "Veri Merkezi",
+      "print": "Baskı & Zarflama",
+      "postal": "Posta Dağıtım",
+      "e1": "AES 512",
+      "e2": "Yönlendirme",
+      "e3": "QR Takip"
+    }
+  },
+  "goals": {
+    "eyebrow": "Hedeflerimiz",
+    "title": "Tek şemsiye altında küresel posta ağı",
+    "intro": "GreenPostel Global HybridPosta; geniş bir kullanım alanı ve hedef yelpazesiyle, birçok sektörde farklı amaçlar için kullanılabilecek potansiyele sahip olarak geliştirildi.",
+    "items": [
+      { "title": "Global İş Birliği", "desc": "Dünyadaki tüm ulusal posta hizmetleriyle iş birliği yaparak globalde büyümek." },
+      { "title": "Kurumsal Benimsenme", "desc": "Yerelde ve globalde önemli kurumların GreenPostel Global sistemini benimsemesini sağlamak." },
+      { "title": "Sektörde Liderlik", "desc": "Öncülüğünü yaptığımız HybridPosta sistemini büyüterek sektörde belirleyici bir oyuncu olmak." }
+    ]
+  },
+  "customers": {
+    "eyebrow": "Müşteri Profili & Çözümler",
+    "title": "Her sektöre uyarlanabilir hibrit posta",
+    "segments": [
+      { "title": "Kurumsal Firmalar", "needs": "Büyük ölçekli belge işleme, güvenlik, verimlilik ve maliyet etkinliği.", "expect": "Özelleştirilmiş, yüksek güvenlikli, hızlı ve güvenilir hizmet." },
+      { "title": "Kamu Kuruluşları", "needs": "Yüksek güvenlikli ve uyumlu belge işleme, maliyet etkinliği, sürdürülebilirlik.", "expect": "GDPR uyumlu çözümler ve çevre dostu operasyonlar." },
+      { "title": "Finans & Sigorta", "needs": "Yüksek güvenlik, uyumluluk, müşteri iletişimi ve belge yönetimi.", "expect": "Düzenlemelere tam uyum, güvenli ve hızlı iletişim, kapsamlı destek." },
+      { "title": "KOBİ'ler", "needs": "Maliyet etkin çözümler, operasyonel verimlilik ve kolay kullanım.", "expect": "Uygun fiyatlı, basit ve etkili çözümler, hızlı destek." },
+      { "title": "Posta Dağıtım Şirketleri", "needs": "Güvenli ve etkin çözümler, operasyonel verimlilik, hızlı gönderim.", "expect": "Güvenli ve hızlı hizmet, basit çözümler, hızlı gönderi ve destek." }
+    ],
+    "solutionsTitle": "Çözümlerimiz",
+    "solutions": [
+      { "title": "Verimlilik & Maliyet Tasarrufu", "desc": "Otomasyon ve dijital entegrasyon ile operasyonel verimliliği artırıp maliyetleri düşürüyoruz." },
+      { "title": "Güvenlik & Uyumluluk", "desc": "GDPR uyumlu, AES 128/256/512 destekli yüksek güvenlikli, yapay zeka destekli çözümler." },
+      { "title": "Çevresel Sürdürülebilirlik", "desc": "Kağıt tüketimini ve karbon ayak izini azaltan çevre dostu süreçler." },
+      { "title": "Özelleştirilmiş Hizmetler", "desc": "Her sektöre ve işletme boyutuna uygun, tamamen dijital hibrit posta çözümleri." }
+    ]
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "Geleceğin postasını birlikte kuralım",
+    "text": "Her türlü düşünce, soru ve öneriniz için bize aşağıdaki bilgilerden ulaşabilirsiniz.",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-posta",
+    "webLabel": "Web",
+    "cta": "E-posta Gönder"
+  },
+  "footer": {
+    "company": "GreenPostel Global Ltd.",
+    "tagline": "Posta Veri İşleme, Baskı ve Zarflama Hizmetleri",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "lang": {
+    "label": "Dil",
+    "tr": "Türkçe",
+    "de": "Almanca",
+    "en": "İngilizce"
+  }
+}

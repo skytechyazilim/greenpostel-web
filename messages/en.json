@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "title": "GreenPostel Global — Second-Generation Hybrid Post",
+    "description": "GreenPostel Global is a secure, economical and eco-friendly international hybrid postal solution that merges the traditional postal system with the digital world.",
+    "keywords": "hybrid post, digital mail, AES encryption, international delivery, eco-friendly post, GreenPostel"
+  },
+  "nav": {
+    "whatis": "What is it?",
+    "architecture": "Architecture",
+    "values": "Values",
+    "goals": "Goals",
+    "customers": "Solutions",
+    "contact": "Contact",
+    "cta": "Get in Touch"
+  },
+  "hero": {
+    "badge": "International Postal Delivery Services",
+    "titleTop": "The second",
+    "titleHighlight": "generation of post",
+    "titleBottom": "meets the digital world",
+    "subtitle": "GreenPostel Global is an innovative hybrid postal solution that fixes the shortcomings of the traditional postal system and integrates it with the digital world. It separates single and bulk data, encrypts it end-to-end and delivers it securely to the nearest print center.",
+    "ctaPrimary": "Explore the System",
+    "ctaSecondary": "Contact Us",
+    "scroll": "Scroll to explore",
+    "stat1Label": "Digital",
+    "stat2Label": "Secure",
+    "stat3Value": "AES 512",
+    "stat3Label": "Encryption"
+  },
+  "whatis": {
+    "eyebrow": "What is GreenPostel?",
+    "title": "A secure, economical and ecological postal experience",
+    "p1": "The project separates single and bulk data processing, encrypts it digitally, and ensures it is sent securely to the print centers of GreenPostel partners both domestically and internationally.",
+    "p2": "This way, both customers and international postal organizations save time and cost; its eco-friendly approach shortens delivery time. The project was built to be secure, economical and ecological.",
+    "pill1Title": "Fully Digital",
+    "pill1Desc": "End-to-end digital process with no format conversion needed.",
+    "pill2Title": "Top-Tier Security",
+    "pill2Desc": "AES-encrypted data stays protected all the way to print.",
+    "pill3Title": "Eco-Friendly",
+    "pill3Desc": "An ecological model that cuts carbon footprint and transit time."
+  },
+  "mission": {
+    "eyebrow": "Mission & Vision",
+    "missionTitle": "Our Mission",
+    "missionText": "To integrate traditional postal processes with modern technologies, offering our users fast, secure, economical and eco-friendly solutions. We aim to lower organizations' communication costs while simplifying their business processes.",
+    "visionTitle": "Our Vision",
+    "visionText": "To combine the power of the digital world with traditional postal services and build an innovative, sustainable and accessible communication platform for organizations."
+  },
+  "values": {
+    "eyebrow": "Our Company Values",
+    "title": "The principles that guide us",
+    "items": [
+      { "title": "Innovation", "desc": "Continuous improvement and technology-driven communication solutions." },
+      { "title": "Sustainability", "desc": "Contributing to a lower carbon footprint through eco-conscious practices." },
+      { "title": "Customer Focus", "desc": "Flexible, reliable services that put user needs at the center." },
+      { "title": "Accessibility", "desc": "Easy, fast and cost-effective solutions for every organization." },
+      { "title": "Transparency", "desc": "Trust, honesty and open communication across our processes." },
+      { "title": "Efficiency", "desc": "Solutions that are effective in both time and cost." }
+    ]
+  },
+  "architecture": {
+    "eyebrow": "System Architecture",
+    "title": "From data to delivery, secure end to end",
+    "intro": "Data sent from the user panel is encrypted with AES, routed by AI to the nearest print center, then printed, enveloped and delivered to the recipient with a QR tracking code.",
+    "steps": [
+      { "title": "Data Submission", "desc": "The user uploads letter data to the GreenPostel system from their own panel." },
+      { "title": "AES Encryption", "desc": "Data is encrypted end-to-end with AES 128 / 256 / 512 and securely separated." },
+      { "title": "Smart Routing", "desc": "AI routes the data to the print center nearest to the destination address." },
+      { "title": "Print & Enveloping", "desc": "AI-integrated machines read the data, print it and envelope it automatically." },
+      { "title": "Handover to Post", "desc": "Finished mail is handed over to national postal distribution organizations." },
+      { "title": "QR Tracking & Delivery", "desc": "The carrier delivers the mail to the recipient with a personal QR tracking code." }
+    ],
+    "securityTitle": "End-to-end encryption",
+    "securityText": "As soon as the user creates an account and signs in, the system encrypts the data with AES. This protection continues uninterrupted until the AI-integrated machines at the print center read and process the data.",
+    "optionsTitle": "Two ways to use it",
+    "option1Title": "Via the Browser",
+    "option1Desc": "Work directly from your web browser with no installation required.",
+    "option2Title": "Via the Operating System",
+    "option2Desc": "Work in integration with the operating system you use.",
+    "formatNote": "No format change required — GreenPostel adapts to every format.",
+    "diagram": {
+      "user": "User",
+      "center": "Data Center",
+      "print": "Print & Envelope",
+      "postal": "Postal Hub",
+      "e1": "AES 512",
+      "e2": "Routing",
+      "e3": "QR Tracking"
+    }
+  },
+  "goals": {
+    "eyebrow": "Our Goals",
+    "title": "A global postal network under one umbrella",
+    "intro": "GreenPostel Global HybridPost was built with a wide range of uses and targets, holding the potential to serve many sectors for different purposes.",
+    "items": [
+      { "title": "Global Collaboration", "desc": "Partnering with every national postal service in the world to grow globally." },
+      { "title": "Enterprise Adoption", "desc": "Driving key organizations, locally and globally, to adopt the GreenPostel system." },
+      { "title": "Market Leadership", "desc": "Scaling the HybridPost system we pioneered to become a defining player in the sector." }
+    ]
+  },
+  "customers": {
+    "eyebrow": "Customer Profile & Solutions",
+    "title": "Hybrid post, adaptable to every sector",
+    "segments": [
+      { "title": "Large Enterprises", "needs": "Large-scale document processing, security, efficiency and cost-effectiveness.", "expect": "Customized, high-security, fast and reliable service." },
+      { "title": "Public Institutions", "needs": "Highly secure, compliant document processing, cost-effectiveness, sustainability.", "expect": "GDPR-compliant solutions and eco-friendly operations." },
+      { "title": "Finance & Insurance", "needs": "High security, compliance, customer communication and document management.", "expect": "Full regulatory compliance, secure and fast communication, comprehensive support." },
+      { "title": "SMEs", "needs": "Cost-effective solutions, operational efficiency and ease of use.", "expect": "Affordable, simple and effective solutions, fast support." },
+      { "title": "Postal Distribution Firms", "needs": "Secure and effective solutions, operational efficiency, fast dispatch.", "expect": "Secure and fast service, simple solutions, quick dispatch and support." }
+    ],
+    "solutionsTitle": "Our Solutions",
+    "solutions": [
+      { "title": "Efficiency & Cost Savings", "desc": "Automation and digital integration boost operational efficiency and lower costs." },
+      { "title": "Security & Compliance", "desc": "GDPR-compliant, high-security, AI-assisted solutions with AES 128/256/512." },
+      { "title": "Environmental Sustainability", "desc": "Eco-friendly processes that reduce paper use and carbon footprint." },
+      { "title": "Tailored Services", "desc": "Fully digital hybrid postal solutions for every sector and business size." }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's build the post of the future together",
+    "text": "For any thoughts, questions or suggestions, you can reach us through the details below.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "webLabel": "Web",
+    "cta": "Send an Email"
+  },
+  "footer": {
+    "company": "GreenPostel Global Ltd.",
+    "tagline": "Postal Data Processing, Printing & Enveloping Services",
+    "rights": "All rights reserved."
+  },
+  "lang": {
+    "label": "Language",
+    "tr": "Turkish",
+    "de": "German",
+    "en": "English"
+  }
+}
