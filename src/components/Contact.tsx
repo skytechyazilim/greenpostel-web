@@ -6,7 +6,7 @@ import { Reveal } from "./Reveal";
 import { IconPhone, IconMail, IconGlobe, IconArrowRight } from "./icons";
 
 const PHONE = "+49 162 325 3946";
-const EMAIL = "a.bayalan@greenpostel.com";
+const EMAIL = "a.bayalan@greenpostel.de";
 const WEB = "www.greenpostel.de";
 
 export function Contact() {
