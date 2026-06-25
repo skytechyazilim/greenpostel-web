@@ -50,12 +50,30 @@
     "eyebrow": "Our Company Values",
     "title": "The principles that guide us",
     "items": [
-      { "title": "Innovation", "desc": "Continuous improvement and technology-driven communication solutions." },
-      { "title": "Sustainability", "desc": "Contributing to a lower carbon footprint through eco-conscious practices." },
-      { "title": "Customer Focus", "desc": "Flexible, reliable services that put user needs at the center." },
-      { "title": "Accessibility", "desc": "Easy, fast and cost-effective solutions for every organization." },
-      { "title": "Transparency", "desc": "Trust, honesty and open communication across our processes." },
-      { "title": "Efficiency", "desc": "Solutions that are effective in both time and cost." }
+      {
+        "title": "Innovation",
+        "desc": "Continuous improvement and technology-driven communication solutions."
+      },
+      {
+        "title": "Sustainability",
+        "desc": "Contributing to a lower carbon footprint through eco-conscious practices."
+      },
+      {
+        "title": "Customer Focus",
+        "desc": "Flexible, reliable services that put user needs at the center."
+      },
+      {
+        "title": "Accessibility",
+        "desc": "Easy, fast and cost-effective solutions for every organization."
+      },
+      {
+        "title": "Transparency",
+        "desc": "Trust, honesty and open communication across our processes."
+      },
+      {
+        "title": "Efficiency",
+        "desc": "Solutions that are effective in both time and cost."
+      }
     ]
   },
   "architecture": {
@@ -63,12 +81,30 @@
     "title": "From data to delivery, secure end to end",
     "intro": "Data sent from the user panel is encrypted with AES, routed by AI to the nearest print center, then printed, enveloped and delivered to the recipient with a QR tracking code.",
     "steps": [
-      { "title": "Data Submission", "desc": "The user uploads letter data to the GreenPostel system from their own panel." },
-      { "title": "AES Encryption", "desc": "Data is encrypted end-to-end with AES 128 / 256 / 512 and securely separated." },
-      { "title": "Smart Routing", "desc": "AI routes the data to the print center nearest to the destination address." },
-      { "title": "Print & Enveloping", "desc": "AI-integrated machines read the data, print it and envelope it automatically." },
-      { "title": "Handover to Post", "desc": "Finished mail is handed over to national postal distribution organizations." },
-      { "title": "QR Tracking & Delivery", "desc": "The carrier delivers the mail to the recipient with a personal QR tracking code." }
+      {
+        "title": "Data Submission",
+        "desc": "The user uploads letter data to the GreenPostel system from their own panel."
+      },
+      {
+        "title": "AES Encryption",
+        "desc": "Data is encrypted end-to-end with AES 128 / 256 / 512 and securely separated."
+      },
+      {
+        "title": "Smart Routing",
+        "desc": "AI routes the data to the print center nearest to the destination address."
+      },
+      {
+        "title": "Print & Enveloping",
+        "desc": "AI-integrated machines read the data, print it and envelope it automatically."
+      },
+      {
+        "title": "Handover to Post",
+        "desc": "Finished mail is handed over to national postal distribution organizations."
+      },
+      {
+        "title": "QR Tracking & Delivery",
+        "desc": "The carrier delivers the mail to the recipient with a personal QR tracking code."
+      }
     ],
     "securityTitle": "End-to-end encryption",
     "securityText": "As soon as the user creates an account and signs in, the system encrypts the data with AES. This protection continues uninterrupted until the AI-integrated machines at the print center read and process the data.",
@@ -93,27 +129,68 @@
     "title": "A global postal network under one umbrella",
     "intro": "GreenPostel Global HybridPost was built with a wide range of uses and targets, holding the potential to serve many sectors for different purposes.",
     "items": [
-      { "title": "Global Collaboration", "desc": "Partnering with every national postal service in the world to grow globally." },
-      { "title": "Enterprise Adoption", "desc": "Driving key organizations, locally and globally, to adopt the GreenPostel system." },
-      { "title": "Market Leadership", "desc": "Scaling the HybridPost system we pioneered to become a defining player in the sector." }
+      {
+        "title": "Global Collaboration",
+        "desc": "Partnering with every national postal service in the world to grow globally."
+      },
+      {
+        "title": "Enterprise Adoption",
+        "desc": "Driving key organizations, locally and globally, to adopt the GreenPostel system."
+      },
+      {
+        "title": "Market Leadership",
+        "desc": "Scaling the HybridPost system we pioneered to become a defining player in the sector."
+      }
     ]
   },
   "customers": {
     "eyebrow": "Customer Profile & Solutions",
     "title": "Hybrid post, adaptable to every sector",
     "segments": [
-      { "title": "Large Enterprises", "needs": "Large-scale document processing, security, efficiency and cost-effectiveness.", "expect": "Customized, high-security, fast and reliable service." },
-      { "title": "Public Institutions", "needs": "Highly secure, compliant document processing, cost-effectiveness, sustainability.", "expect": "GDPR-compliant solutions and eco-friendly operations." },
-      { "title": "Finance & Insurance", "needs": "High security, compliance, customer communication and document management.", "expect": "Full regulatory compliance, secure and fast communication, comprehensive support." },
-      { "title": "SMEs", "needs": "Cost-effective solutions, operational efficiency and ease of use.", "expect": "Affordable, simple and effective solutions, fast support." },
-      { "title": "Postal Distribution Firms", "needs": "Secure and effective solutions, operational efficiency, fast dispatch.", "expect": "Secure and fast service, simple solutions, quick dispatch and support." }
+      {
+        "title": "Large Enterprises",
+        "needs": "Large-scale document processing, security, efficiency and cost-effectiveness.",
+        "expect": "Customized, high-security, fast and reliable service."
+      },
+      {
+        "title": "Public Institutions",
+        "needs": "Highly secure, compliant document processing, cost-effectiveness, sustainability.",
+        "expect": "GDPR-compliant solutions and eco-friendly operations."
+      },
+      {
+        "title": "Finance & Insurance",
+        "needs": "High security, compliance, customer communication and document management.",
+        "expect": "Full regulatory compliance, secure and fast communication, comprehensive support."
+      },
+      {
+        "title": "SMEs",
+        "needs": "Cost-effective solutions, operational efficiency and ease of use.",
+        "expect": "Affordable, simple and effective solutions, fast support."
+      },
+      {
+        "title": "Postal Distribution Firms",
+        "needs": "Secure and effective solutions, operational efficiency, fast dispatch.",
+        "expect": "Secure and fast service, simple solutions, quick dispatch and support."
+      }
     ],
     "solutionsTitle": "Our Solutions",
     "solutions": [
-      { "title": "Efficiency & Cost Savings", "desc": "Automation and digital integration boost operational efficiency and lower costs." },
-      { "title": "Security & Compliance", "desc": "GDPR-compliant, high-security, AI-assisted solutions with AES 128/256/512." },
-      { "title": "Environmental Sustainability", "desc": "Eco-friendly processes that reduce paper use and carbon footprint." },
-      { "title": "Tailored Services", "desc": "Fully digital hybrid postal solutions for every sector and business size." }
+      {
+        "title": "Efficiency & Cost Savings",
+        "desc": "Automation and digital integration boost operational efficiency and lower costs."
+      },
+      {
+        "title": "Security & Compliance",
+        "desc": "GDPR-compliant, high-security, AI-assisted solutions with AES 128/256/512."
+      },
+      {
+        "title": "Environmental Sustainability",
+        "desc": "Eco-friendly processes that reduce paper use and carbon footprint."
+      },
+      {
+        "title": "Tailored Services",
+        "desc": "Fully digital hybrid postal solutions for every sector and business size."
+      }
     ]
   },
   "contact": {
@@ -136,5 +213,43 @@
     "de": "German",
     "en": "English",
     "fr": "French"
+  },
+  "globe": {
+    "eyebrow": "Delivery Network",
+    "title": "One network, worldwide",
+    "intro": "Our Germany-based hybrid postal network links delivery points across six continents.",
+    "hint": "Drag the globe · tap a point",
+    "tag": "Hybrid Post",
+    "badge": "Active delivery point",
+    "hubBadge": "Global hub"
+  },
+  "countries": {
+    "tr": "Türkiye",
+    "gb": "United Kingdom",
+    "fr": "France",
+    "de": "Germany",
+    "es": "Spain",
+    "it": "Italy",
+    "nl": "Netherlands",
+    "ru": "Russia",
+    "ae": "UAE",
+    "sa": "Saudi Arabia",
+    "eg": "Egypt",
+    "ng": "Nigeria",
+    "za": "South Africa",
+    "ke": "Kenya",
+    "jp": "Japan",
+    "cn": "China",
+    "kr": "South Korea",
+    "sg": "Singapore",
+    "in": "India",
+    "th": "Thailand",
+    "hk": "Hong Kong",
+    "us": "USA",
+    "ca": "Canada",
+    "mx": "Mexico",
+    "br": "Brazil",
+    "ar": "Argentina",
+    "au": "Australia"
   }
 }

@@ -7,6 +7,7 @@ import { Values } from "@/components/Values";
 import { Architecture } from "@/components/Architecture";
 import { Goals } from "@/components/Goals";
 import { Customers } from "@/components/Customers";
+import { GlobeSection } from "@/components/GlobeSection";
 import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
 
@@ -34,6 +35,7 @@ export default function Home({
       <Values />
       <Goals />
       <Customers />
+      <GlobeSection />
       <Contact />
       <Footer />
     </main>
