@@ -5,7 +5,7 @@ import { useLocale, useTranslations } from "next-intl";
 import { usePathname, useRouter, routing } from "@/i18n/routing";
 import { IconChevronDown } from "./icons";
 
-const FLAG: Record<string, string> = { tr: "TR", de: "DE", en: "EN" };
+const FLAG: Record<string, string> = { tr: "TR", de: "DE", en: "EN", fr: "FR" };
 
 export function LanguageSwitcher({ light = false }: { light?: boolean }) {
   const locale = useLocale();

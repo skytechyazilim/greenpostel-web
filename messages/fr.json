@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "title": "GreenPostel Global — La poste hybride de deuxième génération",
+    "description": "GreenPostel Global est une solution postale hybride internationale sûre, économique et écologique qui relie le système postal traditionnel au monde numérique.",
+    "keywords": "poste hybride, courrier numérique, chiffrement AES, livraison internationale, poste écologique, GreenPostel"
+  },
+  "nav": {
+    "whatis": "Qu'est-ce que c'est ?",
+    "architecture": "Architecture",
+    "values": "Valeurs",
+    "goals": "Objectifs",
+    "customers": "Solutions",
+    "contact": "Contact",
+    "cta": "Nous contacter"
+  },
+  "hero": {
+    "badge": "Services d'expédition postale internationale",
+    "titleTop": "La deuxième",
+    "titleHighlight": "génération de la poste",
+    "titleBottom": "rencontre le monde numérique",
+    "subtitle": "GreenPostel Global est une solution postale hybride innovante qui corrige les lacunes du système postal traditionnel et l'intègre au monde numérique. Elle sépare les données individuelles et en masse, les chiffre de bout en bout et les achemine en toute sécurité vers le centre d'impression le plus proche.",
+    "ctaPrimary": "Découvrir le système",
+    "ctaSecondary": "Nous contacter",
+    "scroll": "Faites défiler pour découvrir",
+    "stat1Label": "Numérique",
+    "stat2Label": "Sécurisé",
+    "stat3Value": "AES 512",
+    "stat3Label": "Chiffrement"
+  },
+  "whatis": {
+    "eyebrow": "Qu'est-ce que GreenPostel ?",
+    "title": "Une expérience postale sûre, économique et écologique",
+    "p1": "Le projet sépare le traitement des données individuelles et en masse, les chiffre numériquement et garantit leur envoi sécurisé vers les centres d'impression des partenaires GreenPostel, au niveau national comme international.",
+    "p2": "Ainsi, les clients comme les organisations postales internationales gagnent du temps et réduisent leurs coûts ; son approche écologique raccourcit le délai de livraison. Le projet a été conçu pour être sûr, économique et écologique.",
+    "pill1Title": "Entièrement numérique",
+    "pill1Desc": "Processus numérique de bout en bout, sans conversion de format.",
+    "pill2Title": "Sécurité de haut niveau",
+    "pill2Desc": "Les données chiffrées en AES restent protégées jusqu'à l'impression.",
+    "pill3Title": "Écologique",
+    "pill3Desc": "Un modèle écologique qui réduit l'empreinte carbone et le temps de transport."
+  },
+  "mission": {
+    "eyebrow": "Mission & Vision",
+    "missionTitle": "Notre mission",
+    "missionText": "Intégrer les processus postaux traditionnels aux technologies modernes pour offrir à nos utilisateurs des solutions rapides, sûres, économiques et écologiques. Nous visons à réduire les coûts de communication des organisations tout en simplifiant leurs processus métier.",
+    "visionTitle": "Notre vision",
+    "visionText": "Allier la puissance du monde numérique aux services postaux traditionnels et bâtir une plateforme de communication innovante, durable et accessible pour les organisations."
+  },
+  "values": {
+    "eyebrow": "Nos valeurs d'entreprise",
+    "title": "Les principes qui nous guident",
+    "items": [
+      { "title": "Innovation", "desc": "Amélioration continue et solutions de communication axées sur la technologie." },
+      { "title": "Durabilité", "desc": "Contribuer à réduire l'empreinte carbone par des pratiques éco-responsables." },
+      { "title": "Orientation client", "desc": "Des services flexibles et fiables qui placent les besoins des utilisateurs au centre." },
+      { "title": "Accessibilité", "desc": "Des solutions simples, rapides et économiques pour chaque organisation." },
+      { "title": "Transparence", "desc": "Confiance, honnêteté et communication ouverte dans tous nos processus." },
+      { "title": "Efficacité", "desc": "Des solutions efficaces en temps comme en coût." }
+    ]
+  },
+  "architecture": {
+    "eyebrow": "Architecture du système",
+    "title": "Des données à la livraison, sécurisé de bout en bout",
+    "intro": "Les données envoyées depuis le panneau utilisateur sont chiffrées en AES, acheminées par l'IA vers le centre d'impression le plus proche, puis imprimées, mises sous pli et livrées au destinataire avec un code de suivi QR.",
+    "steps": [
+      { "title": "Envoi des données", "desc": "L'utilisateur téléverse les données de courrier dans le système GreenPostel depuis son propre panneau." },
+      { "title": "Chiffrement AES", "desc": "Les données sont chiffrées de bout en bout en AES 128 / 256 / 512 et séparées en toute sécurité." },
+      { "title": "Routage intelligent", "desc": "L'IA achemine les données vers le centre d'impression le plus proche de l'adresse de destination." },
+      { "title": "Impression & mise sous pli", "desc": "Des machines intégrées à l'IA lisent les données, les impriment et les mettent sous pli automatiquement." },
+      { "title": "Remise à la poste", "desc": "Les envois finalisés sont remis aux organisations nationales de distribution postale." },
+      { "title": "Suivi QR & livraison", "desc": "Le facteur remet l'envoi au destinataire avec un code de suivi QR personnel." }
+    ],
+    "securityTitle": "Chiffrement de bout en bout",
+    "securityText": "Dès que l'utilisateur crée un compte et se connecte, le système chiffre les données en AES. Cette protection se poursuit sans interruption jusqu'à ce que les machines intégrées à l'IA du centre d'impression lisent et traitent les données.",
+    "optionsTitle": "Deux façons de l'utiliser",
+    "option1Title": "Via le navigateur",
+    "option1Desc": "Travaillez directement depuis votre navigateur web, sans aucune installation.",
+    "option2Title": "Via le système d'exploitation",
+    "option2Desc": "Travaillez en intégration avec le système d'exploitation que vous utilisez.",
+    "formatNote": "Aucun changement de format requis — GreenPostel s'adapte à tous les formats.",
+    "diagram": {
+      "user": "Utilisateur",
+      "center": "Centre de données",
+      "print": "Impression & pli",
+      "postal": "Hub postal",
+      "e1": "AES 512",
+      "e2": "Routage",
+      "e3": "Suivi QR"
+    }
+  },
+  "goals": {
+    "eyebrow": "Nos objectifs",
+    "title": "Un réseau postal mondial sous un même toit",
+    "intro": "GreenPostel Global HybridPost a été conçu avec un large éventail d'usages et d'objectifs, avec le potentiel de servir de nombreux secteurs à des fins variées.",
+    "items": [
+      { "title": "Collaboration mondiale", "desc": "Nouer des partenariats avec chaque service postal national du monde pour croître à l'échelle mondiale." },
+      { "title": "Adoption par les entreprises", "desc": "Amener les organisations clés, localement et mondialement, à adopter le système GreenPostel." },
+      { "title": "Leadership sur le marché", "desc": "Développer le système HybridPost dont nous sommes pionniers pour devenir un acteur déterminant du secteur." }
+    ]
+  },
+  "customers": {
+    "eyebrow": "Profil client & solutions",
+    "title": "Une poste hybride adaptable à chaque secteur",
+    "segments": [
+      { "title": "Grandes entreprises", "needs": "Traitement de documents à grande échelle, sécurité, efficacité et rentabilité.", "expect": "Un service personnalisé, hautement sécurisé, rapide et fiable." },
+      { "title": "Institutions publiques", "needs": "Traitement de documents hautement sécurisé et conforme, rentabilité, durabilité.", "expect": "Des solutions conformes au RGPD et des opérations écologiques." },
+      { "title": "Finance & assurance", "needs": "Sécurité élevée, conformité, communication client et gestion documentaire.", "expect": "Pleine conformité réglementaire, communication sûre et rapide, support complet." },
+      { "title": "PME", "needs": "Solutions rentables, efficacité opérationnelle et facilité d'utilisation.", "expect": "Des solutions abordables, simples et efficaces, un support rapide." },
+      { "title": "Sociétés de distribution postale", "needs": "Solutions sûres et efficaces, efficacité opérationnelle, expédition rapide.", "expect": "Un service sûr et rapide, des solutions simples, une expédition et un support rapides." }
+    ],
+    "solutionsTitle": "Nos solutions",
+    "solutions": [
+      { "title": "Efficacité & économies", "desc": "L'automatisation et l'intégration numérique augmentent l'efficacité opérationnelle et réduisent les coûts." },
+      { "title": "Sécurité & conformité", "desc": "Des solutions conformes au RGPD, hautement sécurisées et assistées par IA avec AES 128/256/512." },
+      { "title": "Durabilité environnementale", "desc": "Des processus écologiques qui réduisent l'usage du papier et l'empreinte carbone." },
+      { "title": "Services sur mesure", "desc": "Des solutions postales hybrides entièrement numériques pour chaque secteur et taille d'entreprise." }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Construisons ensemble la poste du futur",
+    "text": "Pour toute pensée, question ou suggestion, vous pouvez nous joindre via les coordonnées ci-dessous.",
+    "phoneLabel": "Téléphone",
+    "emailLabel": "E-mail",
+    "webLabel": "Web",
+    "cta": "Envoyer un e-mail"
+  },
+  "footer": {
+    "company": "GreenPostel Global Ltd.",
+    "tagline": "Services de traitement, d'impression et de mise sous pli des données postales",
+    "rights": "Tous droits réservés."
+  },
+  "lang": {
+    "label": "Langue",
+    "tr": "Turc",
+    "de": "Allemand",
+    "en": "Anglais",
+    "fr": "Français"
+  }
+}
